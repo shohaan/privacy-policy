@@ -1,0 +1,73 @@
+Open Source Licenses
+====================
+
+This application uses standard AndroidX, Google, and third-party open-source libraries.
+All libraries are licensed under their respective original licenses.
+
+---------------------------------------
+AndroidX Libraries
+---------------------------------------
+AndroidX libraries are open-source and licensed under the Apache License 2.0.
+https://developer.android.com/jetpack/androidx
+
+License:
+Apache License 2.0
+https://www.apache.org/licenses/LICENSE-2.0
+
+---------------------------------------
+Google Material Components
+---------------------------------------
+This app uses Google’s Material Components for Android.
+Licensed under Apache License 2.0.
+
+Source:
+https://github.com/material-components/material-components-android
+
+License:
+Apache License 2.0
+https://www.apache.org/licenses/LICENSE-2.0
+
+---------------------------------------
+Google Play Services (If Used)
+---------------------------------------
+Google Play services and related components follow Google APIs Terms of Service.
+
+Terms:
+https://developers.google.com/terms/
+
+---------------------------------------
+Firebase Libraries (If Used)
+---------------------------------------
+Firebase Android SDKs are licensed under Apache License 2.0.
+
+Source:
+https://github.com/firebase/firebase-android-sdk
+
+License:
+Apache License 2.0
+https://www.apache.org/licenses/LICENSE-2.0
+
+---------------------------------------
+Third Party Libraries
+---------------------------------------
+The application may include additional third-party open-source libraries such as:
+• Glide
+• Gson
+• Retrofit
+• Room
+• Lottie
+
+Each third-party library is licensed by its respective owner.
+Most are licensed under the Apache License 2.0 or MIT License.
+
+---------------------------------------
+MIT License (Commonly Used)
+---------------------------------------
+Many libraries are licensed under the MIT License.
+https://opensource.org/licenses/MIT
+
+---------------------------------------
+Final Note
+---------------------------------------
+The developers of this application do not claim ownership of any external
+open-source libraries. All rights belong to their respective authors.
